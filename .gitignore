@@ -5,6 +5,11 @@ Desktop.ini
 .docx
 .dox
 
+idea/
+.7z
+.rar
+.zip
+
 # User-specific files
 *.suo
 *.user
